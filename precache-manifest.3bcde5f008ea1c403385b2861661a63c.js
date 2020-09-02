@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87c3219f3e0532532fcddbdbacaa8f86",
+    "revision": "3ff724388a30fdf61e352b306aeba178",
     "url": "/olejnikdev/index.html"
   },
   {

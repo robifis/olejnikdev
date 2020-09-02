@@ -13,7 +13,8 @@ const Navbar = () => {
 				</Link>
 				<a
 					href='https://drive.google.com/file/d/18cRJiGr-sIURP9wQRU2Ufri6aDvcOqtB/view?usp=sharing'
-					target='_blank'>
+					target='_blank'
+					rel='noopener noreferrer'>
 					<button className='link-button'>CV</button>
 				</a>
 			</div>

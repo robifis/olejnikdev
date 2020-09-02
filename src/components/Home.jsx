@@ -50,6 +50,7 @@ const Home = () => {
 					</Link>
 					<a
 						target='_blank'
+						rel='noopener noreferrer'
 						href='https://drive.google.com/file/d/18cRJiGr-sIURP9wQRU2Ufri6aDvcOqtB/view?usp=sharing'>
 						<button className='cta-alt button'>CV</button>
 					</a>

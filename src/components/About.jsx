@@ -8,7 +8,7 @@ const About = () => {
 				<h3 className='question'>Q: Who are you exactly?</h3>
 				<p className='answer'>
 					A: I am Bobby, a{' '}
-					<a href='https://en.wikipedia.org/wiki/Bobby_Olejnik' target='_blank'>
+					<a href='https://en.wikipedia.org/wiki/Bobby_Olejnik' target='_blank' rel='noopener noreferrer'>
 						former professional footballer
 					</a>{' '}
 					turned web developer. Whilst I have always enjoyed playing football, I have always kept one one on
@@ -16,20 +16,21 @@ const About = () => {
 					Feel free to take a look at{' '}
 					<a
 						href='https://drive.google.com/file/d/18cRJiGr-sIURP9wQRU2Ufri6aDvcOqtB/view?usp=sharing'
-						target='_blank'>
+						target='_blank'
+						rel='noopener noreferrer'>
 						my CV
 					</a>. Alternatively, here are the links to my Social Media Channels:{' '}
-					<a href='https://www.instagram.com/bobbyolejnik/?hl=en' target='_blank'>
+					<a href='https://www.instagram.com/bobbyolejnik/?hl=en' target='_blank' rel='noopener noreferrer'>
 						Instagram
 					</a>,{' '}
-					<a href='https://twitter.com/bobbyolejnik?lang=en' target='_blank'>
+					<a href='https://twitter.com/bobbyolejnik?lang=en' target='_blank' rel='noopener noreferrer'>
 						Twitter
 					</a>{' '}
 					as well as my{' '}
-					<a href='https://github.com/robifis' target='_blank'>
+					<a href='https://github.com/robifis' target='_blank' rel='noopener noreferrer'>
 						GitHub Account
 					</a>. If you want to get in touch with directly then please don't hesitate to contact me either via{' '}
-					<a href='mailto:bobby@olejnik.dev' target='_blank'>
+					<a href='mailto:bobby@olejnik.dev' target='_blank' rel='noopener noreferrer'>
 						email
 					</a>{' '}
 					or over the phone: +447450113553.

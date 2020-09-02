@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/olejnikdev/static/css/main.f2dcc3a6.chunk.css",
+    "main.js": "/olejnikdev/static/js/main.fccc2a91.chunk.js",
+    "main.js.map": "/olejnikdev/static/js/main.fccc2a91.chunk.js.map",
+    "runtime-main.js": "/olejnikdev/static/js/runtime-main.ae3623e0.js",
+    "runtime-main.js.map": "/olejnikdev/static/js/runtime-main.ae3623e0.js.map",
+    "static/js/2.61653ee9.chunk.js": "/olejnikdev/static/js/2.61653ee9.chunk.js",
+    "static/js/2.61653ee9.chunk.js.map": "/olejnikdev/static/js/2.61653ee9.chunk.js.map",
+    "index.html": "/olejnikdev/index.html",
+    "precache-manifest.125380bd1e7e199b9facdfa300560822.js": "/olejnikdev/precache-manifest.125380bd1e7e199b9facdfa300560822.js",
+    "service-worker.js": "/olejnikdev/service-worker.js",
+    "static/css/main.f2dcc3a6.chunk.css.map": "/olejnikdev/static/css/main.f2dcc3a6.chunk.css.map",
+    "static/js/2.61653ee9.chunk.js.LICENSE.txt": "/olejnikdev/static/js/2.61653ee9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae3623e0.js",
+    "static/js/2.61653ee9.chunk.js",
+    "static/css/main.f2dcc3a6.chunk.css",
+    "static/js/main.fccc2a91.chunk.js"
+  ]
+}

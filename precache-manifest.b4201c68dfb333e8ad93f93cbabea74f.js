@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf9440c31dbee86b672dc56a2ef1e633",
+    "revision": "87c3219f3e0532532fcddbdbacaa8f86",
     "url": "/olejnikdev/index.html"
   },
   {
-    "revision": "a9b015c8cec8ceeb575a",
+    "revision": "ae9e674ba583bc7ad7ea",
     "url": "/olejnikdev/static/css/main.f2dcc3a6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/olejnikdev/static/js/2.5ec41b3c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9b015c8cec8ceeb575a",
-    "url": "/olejnikdev/static/js/main.771f937f.chunk.js"
+    "revision": "ae9e674ba583bc7ad7ea",
+    "url": "/olejnikdev/static/js/main.186839e1.chunk.js"
   },
   {
     "revision": "d29588eeeaf8e67304d4",
